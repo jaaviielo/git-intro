@@ -1,1 +1,5 @@
+node_modules/
+.env
+.testdriver/
+test-results/
 *.log
